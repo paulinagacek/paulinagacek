@@ -6,7 +6,7 @@
 
 📫 How to reach me: 
 
-[] *paulina.gacek.pl@gmail.com*
+- [x] *paulina.gacek.pl@gmail.com*
 
-[]*paulinagacek@student.agh.edu.pl*
+- [x] *paulinagacek@student.agh.edu.pl*
 
