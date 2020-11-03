@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the project called **Physicist's Toolbox**
-- 🤔 I’m trying to pass the 1st term
-- 📫 How to reach me: 
+🔭 I’m currently working on the project called **Physicist's Toolbox**
 
--*paulina.gacek.pl@gmail.com*
+🤔 I’m trying to pass the 1st term
 
--*paulinagacek@student.agh.edu.pl*
+📫 How to reach me: 
+
+[] *paulina.gacek.pl@gmail.com*
+
+[]*paulinagacek@student.agh.edu.pl*
 
