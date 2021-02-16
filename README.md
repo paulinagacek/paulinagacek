@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the project called **Physicist's Toolbox**
-
-🤔 I’m trying to pass the 1st term
+🤔 Happily passed 1st term, trying to pass the 2nd one.
 
 📫 How to reach me: 
 
@@ -10,5 +8,3 @@
 
 - [x] *paulinagacek@student.agh.edu.pl*
 
-My website: https://paulinagacek.github.io/
-Forks: https://github.com/PaulinaGacek/TeachingMaterials
