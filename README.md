@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔 Happily passed 1st term, trying to pass the 2nd one.
+Happily passed the 1st year at AGH 
 
 **Check out my personal projects:** 
 
