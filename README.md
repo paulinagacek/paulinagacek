@@ -8,6 +8,8 @@ Happily passed the 1st year at AGH
 
 ☑️ https://github.com/PaulinaGacek/GraphTheoryProject
 
+☑️ https://github.com/PaulinaGacek/Sudoku
+
 
 📫 How to reach me: 
 
