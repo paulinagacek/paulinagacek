@@ -23,7 +23,7 @@ I am a software developer at AGH Racing students association working in driverle
   <img align="left" alt="my LinkedIN" width="52px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulina.gacek.pl@gmail.com&su=Message from github portfolio: &body=Hello Paulina!">
-  <img align="left" alt=" my LinkedIN" width="52px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
+  <img align="left" alt=" gmail" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />
 
   </br>
   
