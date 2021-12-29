@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am passionate sophomore student of Computer Science with Artificial Intelligence eager to develop my programming skills and learn new cutting-edge technologies.
+I am passionate sophomore student of Computer Science with Artificial Intelligence eager to develop my programming skills and learn cutting-edge technologies.
 
 I am a software developer at AGH Racing students association working in driverless section  :sunglasses: 🏎️ Currently we are preparing our autonomous formula student vehicle for summer competition so wish us luck! 
 
@@ -17,6 +17,10 @@ I am a software developer at AGH Racing students association working in driverle
 ## :hourglass: Couple of my latest personal projects : ##
 
 ### [Game of life but formula 1 version  ](https://github.com/PaulinaGacek/Game-of-life) ### 
+
+_November 2021_,    Technologies: _C++_
+
+### [Traffic lights simulator](https://github.com/PaulinaGacek/Traffic-lights-simulator) ### 
 
 _November 2021_,    Technologies: _C++_
 
