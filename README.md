@@ -14,9 +14,10 @@ I am a software developer at AGH Racing students association working in driverle
 </br>
 </br>
 
+### :hourglass: Couple of my latest personal projects : ###
+
 ### 📫 How to reach me: ###
 
-</br>
 </br>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
   <img align="left" alt="my LinkedIN" width="52px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
