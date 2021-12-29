@@ -6,7 +6,7 @@ I am a software developer at AGH Racing students association working on driverle
 
 To find out more about the team visit our website: 
 <a href="https://www.racing.agh.edu.pl/">
-  <img align="right" alt="Agh Racing" width="62px" src="https://www.racing.agh.edu.pl/wp-content/uploads/2020/09/AGH-Racing_RGB_black-and-red-1.png" />
+  <img align="right" alt="Agh Racing" width="100px" src="https://www.racing.agh.edu.pl/wp-content/uploads/2020/09/AGH-Racing_RGB_black-and-red-1.png" />
   </a>
 </br>
 
@@ -18,9 +18,12 @@ To find out more about the team visit our website:
   </a>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
   <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
- 
+
+</br>
   
 - [x] *paulina.gacek.pl@gmail.com*
+  
+</br>
 
 ###  📈 My github stats ###
 
