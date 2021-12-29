@@ -16,18 +16,21 @@ I am a software developer at AGH Racing students association working in driverle
 
 ### :hourglass: Couple of my latest personal projects : ###
 
-#### Game of life but formula 1 version #### [see repo] (https://github.com/PaulinaGacek/Game-of-life)
+#### Game of life but formula 1 version #### 
+[see repo](https://github.com/PaulinaGacek/Game-of-life)
 
-_November 2021_, Technologies: _C++_
+_November 2021_,    Technologies: _C++_
 
 
-#### Multiplayer poker game #### [see repo] (https://github.com/PaulinaGacek/Game-of-life)
+#### Multiplayer poker game #### 
+[see repo](https://github.com/PaulinaGacek/Game-of-life)
 
-_December 2021_, Technologies: _Java_
+_December 2021_,   Technologies: _Java_
 
-#### Fitcrafter - workout mobile app for active people #### [see repo] (https://github.com/PaulinaGacek/Game-of-life)
+#### Fitcrafter - workout mobile app for active people #### 
+[see repo](https://github.com/PaulinaGacek/Game-of-life)
 
-_January 2022_,Technologies: _Pyhon, Expo, React Native_
+_January 2022_,  Technologies: _Pyhon, Expo, React Native_
 
 
 
