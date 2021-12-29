@@ -4,20 +4,22 @@ I am passionate sophomore student of Computer Science with Artificial Intelligen
 
 I am a software developer at AGH Racing students association working on driverless vehicle  :sunglasses: 🏎️
 
-To find out more about the team visit our website: 
 <a href="https://www.racing.agh.edu.pl/">
   <img align="left" alt="Agh Racing" width="160px" src="https://www.racing.agh.edu.pl/wp-content/uploads/2020/09/AGH-Racing_RGB_black-and-red-1.png" />
   </a>
 </br>
 
+:point_left: To find out more about the team visit our website
+
+
 ### 📫 How to reach me: ###
 
 </br>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
-  <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="my LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
-  <img align="left" alt="Abhishek's LinkedIN" width="42px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
+  <img align="left" alt=" my LinkedIN" width="42px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
 
 </br>
 </br>
