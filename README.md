@@ -16,29 +16,29 @@ I am a software developer at AGH Racing students association working in driverle
 
 ## :hourglass: Couple of my latest personal projects : ##
 
-### Game of life but formula 1 version  [see repo](https://github.com/PaulinaGacek/Game-of-life) ### 
+### [Game of life but formula 1 version  ](https://github.com/PaulinaGacek/Game-of-life) ### 
 
 _November 2021_,    Technologies: _C++_
 
 
-### Multiplayer poker game [see repo](https://github.com/PaulinaGacek/Game-of-life) ### 
+###  [Multiplayer poker game](https://github.com/PaulinaGacek/Poker-on-sockets) ### 
 
 _December 2021_,   Technologies: _Java_
 
-### Fitcrafter - workout mobile app for active people  [see repo](https://github.com/PaulinaGacek/Game-of-life) ###
+### [Fitcrafter - workout mobile app for active people  ](https://github.com/Soobian/Project_IO) ###
 
 _January 2022_,  Technologies: _Pyhon, Expo, React Native_
 
+</br>
 
-
-### 📫 How to reach me: ###
+## 📫 How to reach me: ##
 
 </br>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
   <img align="left" alt="my LinkedIN" width="52px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulina.gacek.pl@gmail.com&su=Message from github portfolio: &body=Hello Paulina!">
-  <img align="left" alt=" gmail" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />
+  <img align="left" alt=" gmail" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />
 
   </br>
   
