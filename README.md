@@ -2,7 +2,7 @@
 
 I am passionate sophomore student of Computer Science with Artificial Intelligence eager to develop my programming skills and learn new cutting-edge technologies.
 
-I am a software developer at AGH Racing students association working on driverless vehicle  :sunglasses: 🏎️
+I am a software developer at AGH Racing students association working in driverless section  :sunglasses: 🏎️ Currently we are preparing our autonomous formula student vehicle for summer competition so wish us luck! 
 
 <a href="https://www.racing.agh.edu.pl/">
   <img align="left" alt="Agh Racing" width="160px" src="https://www.racing.agh.edu.pl/wp-content/uploads/2020/09/AGH-Racing_RGB_black-and-red-1.png" />
@@ -13,15 +13,19 @@ I am a software developer at AGH Racing students association working on driverle
 
 </br>
 </br>
+
 ### 📫 How to reach me: ###
 
 </br>
+</br>
 <a href="https://www.linkedin.com/in/paulina-gacek-44bb2b229/">
-  <img align="left" alt="my LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="my LinkedIN" width="52px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulina.gacek.pl@gmail.com&su=subject_here&body=body_here">
-  <img align="left" alt=" my LinkedIN" width="42px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=paulina.gacek.pl@gmail.com&su=Message from github portfolio: &body=Hello Paulina!">
+  <img align="left" alt=" my LinkedIN" width="52px" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png" />
 
+  </br>
+  
  *paulina.gacek.pl@gmail.com*
   
 </br>
