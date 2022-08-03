@@ -2,38 +2,6 @@
 
 I am passionate sophomore student of Computer Science with Artificial Intelligence eager to develop my programming skills and learn cutting-edge technologies.
 
-I am a software developer at AGH Racing students association working in driverless section  :sunglasses: 🏎️ Currently we are preparing our autonomous formula student vehicle for summer competition so wish us luck! 
-
-<a href="https://www.racing.agh.edu.pl/">
-  <img align="left" alt="Agh Racing" width="160px" src="https://www.racing.agh.edu.pl/wp-content/uploads/2020/09/AGH-Racing_RGB_black-and-red-1.png" />
-  </a>
-</br>
-
-:point_left: To find out more about the team visit our website
-
-</br>
-</br>
-
-## :hourglass: Couple of my latest personal projects : ##
-
-### [Game of life but formula 1 version  ](https://github.com/PaulinaGacek/Game-of-life) ### 
-
-_November 2021_,    Technologies: _C++_
-
-### [Traffic lights simulator](https://github.com/PaulinaGacek/Traffic-lights-simulator) ### 
-
-_November 2021_,    Technologies: _C++_
-
-
-###  [Multiplayer poker game](https://github.com/PaulinaGacek/Poker-on-sockets) ### 
-
-_December 2021_,   Technologies: _Java_
-
-### [Fitcrafter - workout mobile app for active people  ](https://github.com/Soobian/Project_IO) ###
-
-_January 2022_,  Technologies: _Pyhon, Expo, React Native_
-
-</br>
 
 ## 📫 How to reach me: ##
 
@@ -46,10 +14,4 @@ _January 2022_,  Technologies: _Pyhon, Expo, React Native_
 
   </br>
   
- *paulina.gacek.pl@gmail.com*
-  
 </br>
-
-###  📈 My github stats ###
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PaulinaGacek&show_icons=true&theme=dracula" alt="PaulinaGacek" />
