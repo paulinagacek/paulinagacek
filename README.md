@@ -2,6 +2,15 @@
 
 I am passionate sophomore student of Computer Science with Artificial Intelligence eager to develop my programming skills and learn cutting-edge technologies.
 
+
+</br>
+
+## My stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaGacek&hide=Makefile,Cmake&langs_count=7)](https://github.com/PaulinaGacek/github-readme-stats)
+  
+</br>
+
 ## 📫 How to reach me:
 
 </br>
@@ -16,11 +25,7 @@ I am passionate sophomore student of Computer Science with Artificial Intelligen
   <img align="left" alt=" gmail"
    height="52px"
    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />
-
-  </br>
+</a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaGacek&hide=Makefile,Cmake&langs_count=7)](https://github.com/PaulinaGacek/github-readme-stats)
-  
-  </br>
-  
+ 
 </br>
