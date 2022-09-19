@@ -18,7 +18,9 @@ I am passionate sophomore student of Computer Science with Artificial Intelligen
    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" />
 
   </br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaGacek&hide=Makefile,Cmake&langs_count=7)](https://github.com/PaulinaGacek/github-readme-stats)
+  
   </br>
   
 </br>
