@@ -7,7 +7,7 @@ I am passionate sophomore student of Computer Science with Artificial Intelligen
 
 ## My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaGacek&hide=Makefile,Cmake&langs_count=7)](https://github.com/PaulinaGacek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinagacek&hide=Makefile,Cmake&langs_count=7)](https://github.com/paulinagacek/github-readme-stats)
   
 </br>
 
